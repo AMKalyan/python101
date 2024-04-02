@@ -43,7 +43,6 @@ sample_string = 'a quick brown fox'
 # endswith
 # find
 # index
-[22:43] SUNDARANEEDI NIKHIL VENKATA SATYA SAI - [AV.EN.U4CSE22240]
 string = "Hello World "
 print(string.startswith("H")) # Boolean True
 print(string.endswith("d")) # Boolean True
