@@ -24,7 +24,5 @@ number = int(number) #int
 print(type(number))
 #print(type(1.1))
 
-
 # find the syntax for floor and ceil equivalent functions in c
-
 
